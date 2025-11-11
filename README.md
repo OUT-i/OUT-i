@@ -17,8 +17,8 @@
 
 ### ✍️ Random Dev Quote
 
-> 💬 *"And the universe said you are not alone"*  
-> — **Choose Life**
+<center>> 💬 *"And the universe said you are not alone"*</center>
+<center>> — **Choose Life**</center>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OUT-i&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
