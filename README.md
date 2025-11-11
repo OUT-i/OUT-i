@@ -6,6 +6,7 @@
 
 
 
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/opn2fst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opn2fst" height="30" width="40" /></a>
