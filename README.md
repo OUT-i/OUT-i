@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 
-# 💫 About Me: <p style="white-space: pre;"> <img src="https://komarev.com/ghpvc/?username=out-i&label=Profile%20views&color=0e75b6&style=flat" alt="out-i" /> </p>
+# 💫 About Me: 
+        <p style="white-space: pre;"> <img src="https://komarev.com/ghpvc/?username=out-i&label=Profile%20views&color=0e75b6&style=flat" alt="out-i" /> </p>
 🔭 I’m currently working on my web :)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
