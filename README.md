@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 # 💫 About Me:
 🔭 I’m currently working on my web :)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML<br>💬 Ask me about anything<br>⚡ Fun fact
 
