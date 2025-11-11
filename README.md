@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=out-i&label=Profile%20views&color=0e75b6&style=flat" alt="out-i" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on my web :)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML<br>💬 Ask me about anything<br>⚡ Fun fact
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=out-i&label=Profile%20views&color=0e75b6&style=flat" alt="out-i" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/opn2fst) 
