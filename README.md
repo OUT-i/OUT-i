@@ -16,7 +16,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=OUT-i&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <blockquote>
+    <p><em>"And the universe said you are not alone"</em></p>
+    <strong>— Choose Life</strong>
+  </blockquote>
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OUT-i&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
