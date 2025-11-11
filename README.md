@@ -16,8 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=OUT-i&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-> 💬 *"And the universe said you are not alone"*
 
+> 💬 *"And the universe said you are not alone"*
 > -**Choose Life**-
 
 ### 🔝 Top Contributed Repo
