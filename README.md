@@ -19,21 +19,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=OUT-i&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=OUT-i&theme=apprentice&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OUT-i&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies:
+![](https://github-trophies.vercel.app/?username=OUT-i&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 
 > 💬 *"And the universe said you are not alone"*<br>
 > -**Choose Life**-
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=OUT-i&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OUT-i&icon=2&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by Donating:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/4rrobahere@gmail.com) 
 
   
